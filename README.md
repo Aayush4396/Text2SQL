@@ -1,5 +1,5 @@
 # Text2SQL
-A chatbot that gathers business insights from plain text, eliminating the need for SQL queries.
+Introducing a cutting-edge chatbot revolutionizing business insights retrieval from plain text, eliminating the need for SQL queries. This advanced system utilizes the powerful LLM model, Gemini Pro, within a Python-based tech stack. Developed on the Langchain framework, with a seamless frontend powered by Chainlit, it simplifies data access and analysis for enhanced productivity and decision-making. Feel free to explore the demo of this innovative chatbot on my GitHub repository.
 
 ## Data
 The data consists of Sales Data with 25 columns and around 3000 rows.
