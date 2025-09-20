@@ -99,5 +99,6 @@ python main.py
 
 ***
 
-[^1]: https://github.com/Aayush4396/Text2SQL
+<span style="display:none">[^1]</span>
 
+[^1]: https://github.com/Aayush4396/Text2SQL
